@@ -11,7 +11,7 @@ class test
 
 
     public  static  function  name(){
-        echo  "hi there 4 ";
+        echo  "hi there 5 ";
     }
 
 }
